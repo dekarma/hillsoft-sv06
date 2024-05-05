@@ -1,4 +1,4 @@
-# Custom build of
+# Custom hillsoft sv06 build
 
 This `v57-wdm` branch is a custom build of the [hillsoftware sv06](https://github.com/hillsoftware/sv06) firmware.
 
