@@ -2,7 +2,7 @@
 
 This `v57-wdm` branch is a custom build of the [hillsoftware sv06](https://github.com/hillsoftware/sv06) firmware.
 
-It is built on top of its last stable version v57 with and mainly customizes the runout sensor configuration to invert it (low vs high as runout state) and adds a runout length of 35cm, all to match my setup.
+It is built on top of its last stable version v57 with and mainly customizes the runout sensor configuration to invert it (low vs high as runout state) and adds a runout length of 35cm, all to match my setup (using the [Sovol SV06 Filament Runout Sensor](https://www.sovol3d.com/products/sovol-sv06-filament-runout-sensor-filament-bracket-roller)).
 
 (Any content below if from the original hillsoft repo)
 
