@@ -1,3 +1,11 @@
+# Custom build of
+
+This `v57-wdm` branch is a custom build of the [hillsoftware sv06](https://github.com/hillsoftware/sv06) firmware.
+
+It is built on top of its last stable version v57 with and mainly customizes the runout sensor configuration to invert it (low vs high as runout state) and adds a runout length of 35cm, all to match my setup.
+
+(Any content below if from the original hillsoft repo)
+
 # Sovol SV06 2.1.x bugfix build
 
 ## NOTE THIS IS HIGHLY EXPERIMENTAL FIRMWARE! USE AT YOUR OWN RISK!
